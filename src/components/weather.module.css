@@ -1,0 +1,28 @@
+.weather {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../assets/background2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.weather__container {
+  background-color: lightgray;
+  padding: 10% 20%;
+}
+
+.weather__h1 {
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.weather__footer {
+  position: relative;
+  top: 90px;
+  color: #454545;
+  text-align: center;
+}
+
+.weather__button {
+  margin-left: 10px;
+  cursor: pointer;
+}
